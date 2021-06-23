@@ -1,24 +1,24 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/mhankbarbar/whatsapp-bot/master/media/img/Kaguya.png" width="128" height="128"/>
+<img src="https://raw.githubusercontent.com/orbious/orbot/master/media/img/orbot.png" width="128" height="128"/>
 </p>
 <p align="center">
-<a href="#"><img title="Whatsapp-Bot" src="https://img.shields.io/badge/Whatsapp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Orbot" src="https://img.shields.io/badge/Orbot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/mhankbarbar"><img title="Author" src="https://img.shields.io/badge/Author-mhankbarbar-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/orbious"><img title="Author" src="https://img.shields.io/badge/Author-orbious-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://github.com/mhankbarbar/followers"><img title="Followers" src="https://img.shields.io/github/followers/mhankbarbar?color=blue&style=flat-square"></a>
-<a href="https://github.com/mhankbarbar/whatsapp-bot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/mhankbarbar/whatsapp-bot?color=red&style=flat-square"></a>
-<a href="https://github.com/mhankbarbar/whatsapp-bot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/mhankbarbar/whatsapp-bot?color=red&style=flat-square"></a>
-<a href="https://github.com/mhankbarbar/whatsapp-bot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/mhankbarbar/whatsapp-bot?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/orbious/followers"><img title="Followers" src="https://img.shields.io/github/followers/orbious?color=blue&style=flat-square"></a>
+<a href="https://github.com/orbious/orbot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/orbious/orbotbot?color=red&style=flat-square"></a>
+<a href="https://github.com/orbious/orbot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/orbious/orbot?color=red&style=flat-square"></a>
+<a href="https://github.com/orbious/orbot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/orbious/orbot?label=Watchers&color=blue&style=flat-square"></a>
 <a href="#"><img title="UNMAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
 </p>
 
 ## Clone this project
 
 ```bash
-> git clone https://github.com/MhankBarBar/whatsapp-bot
+> git clone https://github.com/orbious/orbot
 ```
 
 ## Install the dependencies:
@@ -109,5 +109,8 @@ Fix Stuck on linux, install google chrome stable:
 * [`YogaSakti/imageToSticker`](https://github.com/YogaSakti/imageToSticker)
 * [`SomnathDas/Whatsapp-Botto-Re`](https://github.com/SomnathDas/Whatsapp-Botto-Re)
 
+## Original Source by
+https://github.com/MhankBarBar
+  
 ### Donate
-* [`Saweria`](https://saweria.co/donate/mhankbarbar)
+* [`Saweria`](https://saweria.co/donate/orbious)
